@@ -10,7 +10,7 @@ This [SQL](Cycling%20Club%20Data%20Analysis.sql) project showcases my proficienc
 
 # Spotify Top 50 trcaks Analysis
 
-In this [SQL](Top%2050%20spotify%20tracks.sql) project, I performed an analysis using the Kaggle dataset "Top 50 Spotify Tracks 2020" by Atilla Colak. I utilized SQL queries to gain insights into the characteristics of these top songs, including energy, danceability, key, and more. The analysis aimed to uncover trends and patterns in the most popular songs of 2020, providing valuable information for music enthusiasts and data analysts.
+In this [SQL](Top%2050%20spotify%20tracks%202020.sql) project, I performed an analysis using the Kaggle dataset "Top 50 Spotify Tracks 2020" by Atilla Colak. I utilized SQL queries to gain insights into the characteristics of these top songs, including energy, danceability, key, and more. The analysis aimed to uncover trends and patterns in the most popular songs of 2020, providing valuable information for music enthusiasts and data analysts.
 
 
 
