@@ -1,4 +1,4 @@
-# SQL-portfolio
+# Ali Ay's SQL-portfolio
 Coursework and personal projects using SQL
 
 
