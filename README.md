@@ -14,6 +14,8 @@ In this [SQL](Top%2050%20spotify%20tracks%202020.sql) project, I performed an an
 
 # AdventureWorks Power BI Dashboard
 
+[Download my AdventureWorks Dashboard](path/to/your.pdf)
+
 I have successfully created a comprehensive Power BI dashboard for AdventureWorks Cycles, a fictional manufacturing company specializing in bicycles and accessories. This dashboard is designed to provide a detailed view of the company's operations and help in tracking key performance indicators (KPIs), analyzing regional performance, product-level trends, and identifying high-value customers. Here's a breakdown of what I have accomplished in each stage.
 
 **Stage 1: Data Transformation**
