@@ -1,4 +1,4 @@
-# Ali Ay's SQL-portfolio
+# Ali Ay's SQL & Power BI(Dashboard) - portfolio
 Coursework and personal projects using SQL
 
 
