@@ -1,8 +1,8 @@
 # Ali Ay's SQL & Power BI(Dashboard) - portfolio
-Coursework and personal projects using SQL
+Personal projects using SQL and Power BI
 
 
-Hello, and thanks for stopping by! This repository contains examples of SQL I've written for solo projects and while working through SQL. Feel free to take a look around and reach out if you have any feedback or questions.
+Hello, and thanks for stopping by! This repository contains examples of SQL I've written for solo projects. You'll also get a chance to explore a Power BI dashboard which showcases my data visualization skills. Feel free to take a look around and reach out if you have any feedback or questions.
 
 # Cycling Club Data Analysis
 
