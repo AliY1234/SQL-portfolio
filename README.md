@@ -36,6 +36,8 @@ Overall, this Power BI dashboard is now a powerful tool for AdventureWorks Cycle
 
 # Maven Markets Power BI Dashboard
 
+**[Download my Maven Markets Dashboard](Maven%20Markets%20Dashboard%20.pdf)**
+
 Im pleased to announce the successful creation of a comprehensive Power BI dashboard for Maven Markets, a fictional supermarket franchise. The dashboard is structured across two main pages, each focusing on crucial aspects of the business.
 
 **Page 1: Topline Performance**
@@ -56,9 +58,10 @@ I've adhered to best practices in data modelling, emphasizing database normaliza
 
 **Stage 3: DAX Analysis**
 The data analysis capabilities have been enhanced using Data Analysis Expressions (DAX). I've crafted calculated columns and measures, employing DAX functions for mathematical, statistical, and time intelligence tasks. This ensures accurate and meaningful insights, considering row and filter context.
-Stage 4: Dynamic Reporting
 
-I've created visually compelling and interactive reports adhering to data visualization best practices. The dashboard includes cards, KPIs, line charts, tables, matrices, and map visuals. Interactivity features such as drill-through, slicers, and formatting enhancements have been incorporated for a user-friendly and informative output.
+**Stage 4: Dynamic Reporting**
+I've created visually compelling and interactive reports adhering to the best data visualization practices. The dashboard includes cards, KPIs, line charts, tables, matrices, and map visuals. Interactivity features such as drill-through, slicers, and formatting enhancements have been incorporated for a user-friendly and informative output.
+
 The attached PDF provides a visual representation of the Power BI dashboard, showcasing its functionality and the valuable insights it offers to Maven Markets for data-driven decision-making.
 
 
