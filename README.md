@@ -34,5 +34,33 @@ I've brought data to life with interactive reports and dashboards that adhere to
 
 Overall, this Power BI dashboard is now a powerful tool for AdventureWorks Cycles, enabling data-driven decisions and offering valuable insights into their business operations. The attached pdf will provide a visual representation of the Dashboard.
 
+# Maven Markets Power BI Dashboard
+
+Im pleased to announce the successful creation of a comprehensive Power BI dashboard for Maven Markets, a fictional supermarket franchise. The dashboard is structured across two main pages, each focusing on crucial aspects of the business.
+
+**Page 1: Topline Performance**
+This page is designed to provide an overview of the company's overall performance, featuring four key performance indicators (KPIs)
+The Product Matrix includes vital information such as product-wise transactions, profit margins, and return rates. Additionally, a dynamic map visualizes regional and city-wise sales, allowing for a quick assessment of geographic performance.
+
+**Page 2: Customer Detail**
+The second page delves into customer-centric insights, offering a detailed view of the top customer's orders and revenue. Key elements of this page include:
+The Top Customer Overview provides detailed information about the highest-value customer, including their orders and contribution to overall revenue. The Top 10 Customers Matrix offers a snapshot of the most valuable clients, and the Bar Chart provides an insightful comparison of different stores' performance and profits.
+
+**Development Stages:**
+
+**Stage 1: Data Transformation**
+I've streamlined the data preparation process by automating data extraction, transformation, and loading using Power Query. This involves connecting to relevant data sources, applying necessary transformations, and ensuring data integrity. I've also implemented rolling calendars, conditional columns, and aggregations, optimizing the data for further analysis.
+
+**Stage 2: Data Modeling**
+I've adhered to best practices in data modelling, emphasizing database normalization, fact-dimension tables, primary-foreign keys, and relationship cardinality. This ensures a robust foundation for analysis, enabling efficient queries and reporting.
+
+**Stage 3: DAX Analysis**
+The data analysis capabilities have been enhanced using Data Analysis Expressions (DAX). I've crafted calculated columns and measures, employing DAX functions for mathematical, statistical, and time intelligence tasks. This ensures accurate and meaningful insights, considering row and filter context.
+Stage 4: Dynamic Reporting
+
+I've created visually compelling and interactive reports adhering to data visualization best practices. The dashboard includes cards, KPIs, line charts, tables, matrices, and map visuals. Interactivity features such as drill-through, slicers, and formatting enhancements have been incorporated for a user-friendly and informative output.
+The attached PDF provides a visual representation of the Power BI dashboard, showcasing its functionality and the valuable insights it offers to Maven Markets for data-driven decision-making.
+
+
 
 
