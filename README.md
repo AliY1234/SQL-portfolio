@@ -66,7 +66,7 @@ The attached PDF provides a visual representation of the Power BI dashboard, sho
 
 # Harmony Real Estate Power BI Dashboard
 
-**[Download my Harmony Real Estate Dashboard](Photo.pdf)**
+**[Download my Harmony Real Estate Dashboard](Property.pdf)**
 
 A comprehensive Power BI dashboard designed for Harmony Real Estate, facilitating property analysis, KPI tracking, and operational insights.
 
