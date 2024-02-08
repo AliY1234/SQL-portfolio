@@ -64,6 +64,45 @@ I've created visually compelling and interactive reports adhering to the best da
 
 The attached PDF provides a visual representation of the Power BI dashboard, showcasing its functionality and the valuable insights it offers to Maven Markets for data-driven decision-making.
 
+# Harmony Real Estate Power BI Dashboard
 
+**[Download my Harmony Real Estate Dashboard](Photo.pdf)**
+
+A comprehensive Power BI dashboard designed for Harmony Real Estate, facilitating property analysis, KPI tracking, and operational insights.
+
+**Page 1: Property Overview:**
+* Map Visualization: Highlighting property locations with bubbles.
+* Tree Map: Enabling easy property filtering based on criteria.
+* Line Chart: Displaying average property price trends by sub-localities.
+* Matrix: Providing detailed property information at a glance including property type, zip code, bedrooms, baths, and price.
+
+**Page 2:  Property Detail:**
+* KPI Cards: Featuring essential metrics like average property size and price per square foot.
+* Brokerage Information Card: Showing associated brokerage for each property.
+* Matrix: Offering detailed property specifics.
+* Key Influencers Diagram: Identifying property type trends.
+
+**Development Stages:**
+
+**Stage 1: Data Transformation**
+* Automated ETL Process: Utilized Power Query for data extraction, transformation, and loading.
+* Data Shaping: Applied various tools for shaping data according to requirements.
+* Parameterization: Established data source parameters for flexibility.
+
+**Stage 2: Data Modeling**
+* Efficient Data Model: Followed best practices for database normalization and relationships.
+* Optimization: Optimized data model for efficiency and scalability.
+
+**Stage 3: DAX Analysis**
+* Advanced Analysis: Leveraged DAX for meaningful insights.
+* Function Utilization: Employed a variety of DAX functions for diverse analytical requirements.
+
+**Stage 4: Dynamic Reporting**
+* Interactive Dashboards: Developed interactive reports with user-friendly features.
+* User Experience Enhancement: Incorporated interactivity buttons for seamless navigation.
+* Insightful Visualization: Designed visuals to convey actionable insights effectively.
+
+**Conclusion:**
+This Power BI dashboard empowers Harmony Real Estate stakeholders with actionable insights, facilitating data-driven decision-making and operational excellence.
 
 
