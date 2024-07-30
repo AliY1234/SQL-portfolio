@@ -23,8 +23,8 @@ Comprising four distinct pages — Executive dash, Map, Product detail and Custo
 **Stage 1: Data Transformation**
 I've automated the extraction, transformation, and loading of project data using Power Query. This involved connecting to data sources, shaping data with various tools, and applying transformations, including rolling calendars, conditional columns, and aggregations. I also established data source parameters and integrated Excel models for streamlined data preparation.
 
-**Stage 2: Data Modeling**
-I've adhered to data modeling best practices by creating an efficient AdventureWorks data model. This model emphasizes concepts like database normalization, fact-dimension tables, primary-foreign keys, and relationship cardinality, ensuring an optimal foundation for analysis.
+**Stage 2: Data Modelling**
+I've adhered to data modelling best practices by creating an efficient AdventureWorks data model. This model emphasizes concepts like database normalisation, fact-dimension tables, primary-foreign keys, and relationship cardinality, ensuring an optimal foundation for analysis.
 
 **Stage 3: DAX Analysis**
 I've enhanced data analysis capabilities with Data Analysis Expressions (DAX). This involved crafting calculated columns and measures, utilizing DAX functions for mathematical, statistical, and time intelligence tasks, all while considering row and filter context.
