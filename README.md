@@ -105,11 +105,11 @@ A comprehensive Power BI dashboard designed for Harmony Real Estate, facilitatin
 **Conclusion:**
 This Power BI dashboard empowers Harmony Real Estate stakeholders with actionable insights, facilitating data-driven decision-making and operational excellence.
 
-# Demographic Data Analysis with Pandas
+# Demographic Data Analysis Using Python (Pandas)
 
 **[Download the Jupyter Notebook](your_notebook_link.ipynb)**
 
-## Description
+**Description**
 
 This project is a demographic data analysis challenge that utilizes the Pandas library in Python to analyze a dataset extracted from the 1994 Census database. The dataset contains various demographic attributes such as age, workclass, education, occupation, race, and salary, among others.
 
@@ -131,12 +131,5 @@ The objective of this analysis is to answer specific questions related to the de
 
 This project can be run using a Jupyter notebook. Below are the steps to execute the analysis:
 
-1. **Load the Data**: The dataset is loaded into a Pandas DataFrame from a CSV file.
-2. **Data Exploration**: Initial exploration is done to understand the structure and content of the data.
-3. **Answering Questions**: Each question is answered through specific Pandas operations, such as filtering, grouping, and aggregating data.
-4. **Output**: The final answers are displayed and can be further analyzed or visualized as needed.
-
-**Answers to the Questions**
-
-(Here you can list the answers obtained from the analysis if you want to include them in the README directly or provide a link to a notebook file that contains the answers.)
-
+1. **Load the Data**: Open the ipynb file and then start running each command from the beginning of the file in order.
+4. **Output**: After running the initial command to load the library and file, you can execute the following commands. The questions are indicated in the comments. The final answers will then be displayed,
