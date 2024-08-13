@@ -105,4 +105,38 @@ A comprehensive Power BI dashboard designed for Harmony Real Estate, facilitatin
 **Conclusion:**
 This Power BI dashboard empowers Harmony Real Estate stakeholders with actionable insights, facilitating data-driven decision-making and operational excellence.
 
+# Demographic Data Analysis with Pandas
+
+**[Download the Jupyter Notebook](your_notebook_link.ipynb)**
+
+## Description
+
+This project is a demographic data analysis challenge that utilizes the Pandas library in Python to analyze a dataset extracted from the 1994 Census database. The dataset contains various demographic attributes such as age, workclass, education, occupation, race, and salary, among others.
+
+The objective of this analysis is to answer specific questions related to the demographics and their correlation with certain factors like income levels, education, and occupation. By leveraging the powerful data manipulation capabilities of Pandas, we can extract meaningful insights from the data.
+
+## Questions Answered
+
+* Race Representation: Count of individuals by race.
+* Average Age of Men: Mean age of male participants.
+* Bachelor's Degree Percentage: Proportion of individuals with a Bachelor's degree.
+* High Income with Advanced Education: Percentage of those with advanced degrees earning >50K.
+* High Income without Advanced Education: Percentage of non-advanced degree holders earning >50K.
+* Minimum Work Hours: Least number of hours worked per week.
+* High Income at Minimum Hours: Percentage of >50K earners working minimum hours.
+* Country with Highest >50K Earners: Country with the highest percentage of >50K earners.
+* Popular Occupation in India (>50K): Most common job among >50K earners in India.
+
+## Execution
+
+This project can be run using a Jupyter notebook. Below are the steps to execute the analysis:
+
+1. **Load the Data**: The dataset is loaded into a Pandas DataFrame from a CSV file.
+2. **Data Exploration**: Initial exploration is done to understand the structure and content of the data.
+3. **Answering Questions**: Each question is answered through specific Pandas operations, such as filtering, grouping, and aggregating data.
+4. **Output**: The final answers are displayed and can be further analyzed or visualized as needed.
+
+## Answers to the Questions
+
+(Here you can list the answers obtained from the analysis if you want to include them in the README directly or provide a link to a notebook file that contains the answers.)
 
