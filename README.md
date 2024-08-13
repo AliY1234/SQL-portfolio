@@ -115,7 +115,7 @@ This project is a demographic data analysis challenge that utilizes the Pandas l
 
 The objective of this analysis is to answer specific questions related to the demographics and their correlation with certain factors like income levels, education, and occupation. By leveraging the powerful data manipulation capabilities of Pandas, we can extract meaningful insights from the data.
 
-## Questions Answered
+**Questions Answered**
 
 * Race Representation: Count of individuals by race.
 * Average Age of Men: Mean age of male participants.
@@ -127,7 +127,7 @@ The objective of this analysis is to answer specific questions related to the de
 * Country with Highest >50K Earners: Country with the highest percentage of >50K earners.
 * Popular Occupation in India (>50K): Most common job among >50K earners in India.
 
-## Execution
+**Execution**
 
 This project can be run using a Jupyter notebook. Below are the steps to execute the analysis:
 
@@ -136,7 +136,7 @@ This project can be run using a Jupyter notebook. Below are the steps to execute
 3. **Answering Questions**: Each question is answered through specific Pandas operations, such as filtering, grouping, and aggregating data.
 4. **Output**: The final answers are displayed and can be further analyzed or visualized as needed.
 
-## Answers to the Questions
+**Answers to the Questions**
 
 (Here you can list the answers obtained from the analysis if you want to include them in the README directly or provide a link to a notebook file that contains the answers.)
 
