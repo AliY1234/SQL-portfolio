@@ -117,15 +117,15 @@ The objective of this analysis is to answer specific questions related to the de
 
 **Questions**
 
-*Count of individuals by race.
-*Work out the mean age of male participants
-*Return the percentage of individuals with a Bachelor's degree
-*Calculate the percentage of those with advanced degrees earning >50K
-*Calculate the percentage of non-advanced degree holders earning >50K
-*Determine the least amount of hours worked per week
-*Calculate the percentage of >50K earners working minimum work hours
-*Show the country with the highest percentage of >50K earners
-*Display is the most common job among >50K earners in India
+* Count of individuals by race.
+* Work out the mean age of male participants
+* Return the percentage of individuals with a Bachelor's degree
+* Calculate the percentage of those with advanced degrees earning >50K
+* Calculate the percentage of non-advanced degree holders earning >50K
+* Determine the least amount of hours worked per week
+* Calculate the percentage of >50K earners working minimum work hours
+* Show the country with the highest percentage of >50K earners
+* Display is the most common job among >50K earners in India
 
 **Execution**
 Below are the steps to execute the analysis:
