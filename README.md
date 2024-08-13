@@ -131,5 +131,5 @@ The objective of this analysis is to answer specific questions related to the de
 
 This project can be run using a Jupyter notebook. Below are the steps to execute the analysis:
 
-1. **Load the Data**: Open the ipynb file and then start running each command from the beginning of the file in order.
-4. **Output**: After running the initial command to load the library and file, you can execute the following commands. The questions are indicated in the comments. The final answers will then be displayed,
+1. **Load the Data**: Open the ipynb file.
+4. **Output**: After running the initial command to load the library and file, you can execute the following commands in order. The questions are indicated in the comments. The final answers will then be displayed,
