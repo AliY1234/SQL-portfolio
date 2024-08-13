@@ -117,19 +117,19 @@ The objective of this analysis is to answer specific questions related to the de
 
 **Questions**
 
-* Race Representation: Count of individuals by race.
-* Average Age of Men: Mean age of male participants.
-* Bachelor's Degree Percentage: Proportion of individuals with a Bachelor's degree.
-* High Income with Advanced Education: Percentage of those with advanced degrees earning >50K.
-* High Income without Advanced Education: Percentage of non-advanced degree holders earning >50K.
-* Minimum Work Hours: Least number of hours worked per week.
-* High Income at Minimum Hours: Percentage of >50K earners working minimum hours.
-* Country with Highest >50K Earners: Country with the highest percentage of >50K earners.
-* Popular Occupation in India (>50K): Most common job among >50K earners in India.
+*Count of individuals by race.
+*Work out the mean age of male participants
+*Return the percentage of individuals with a Bachelor's degree
+*Calculate the percentage of those with advanced degrees earning >50K
+*Calculate the percentage of non-advanced degree holders earning >50K
+*Determine the least amount of hours worked per week
+*Calculate the percentage of >50K earners working minimum work hours
+*Show the country with the highest percentage of >50K earners
+*Display is the most common job among >50K earners in India
 
 **Execution**
+Below are the steps to execute the analysis:
 
-This project can be run using a Jupyter notebook. Below are the steps to execute the analysis:
+Load the Data: Open the Google Colab link and sign into your Google account.
 
-1. **Load the Data**: Open the ipynb file.
-4. **Output**: After running the initial command to load the library and file, you can execute the following commands in order. The questions are indicated in the comments. The final answers will then be displayed,
+Output: After running the initial command to load the library and file, you can execute the following commands in order. The questions are indicated in the comments. The final answers will then be displayed,
