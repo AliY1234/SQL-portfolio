@@ -107,7 +107,7 @@ This Power BI dashboard empowers Harmony Real Estate stakeholders with actionabl
 
 # Demographic Data Analysis Using Python (Pandas)
 
-**[Run Demographic Data Analysis with Jupyter Notebook and Google Colab]([https://colab.research.google.com/github/AliY1234/SQL-portfolio/blob/main/Demographic_Data.ipynb](https://colab.research.google.com/drive/1SzcgZEl2p-Y69ds4ZVj5pBJ07v8p-953))**
+**[Run Demographic Data Analysis with Jupyter Notebook and Google Colab](https://colab.research.google.com/drive/1SzcgZEl2p-Y69ds4ZVj5pBJ07v8p-953?usp=sharing)**
 
 **Description**
 
