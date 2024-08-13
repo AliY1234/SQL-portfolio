@@ -115,7 +115,7 @@ This project is a demographic data analysis challenge that utilizes the Pandas l
 
 The objective of this analysis is to answer specific questions related to the demographics and their correlation with certain factors like income levels, education, and occupation. By leveraging the powerful data manipulation capabilities of Pandas, we can extract meaningful insights from the data.
 
-**Questions Answered**
+**Questions**
 
 * Race Representation: Count of individuals by race.
 * Average Age of Men: Mean age of male participants.
